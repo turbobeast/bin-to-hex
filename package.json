@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bin-to-decimal": "^1.0.0",
-    "dec-to-hex": "^1.0.0"
+    "bin-to-decimal": "^1.0.2",
+    "dec-to-hex": "^1.0.2"
   }
 }
